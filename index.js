@@ -1,1 +1,3 @@
-function addText();
+function addText() {
+  console.log("hello")
+}
