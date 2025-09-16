@@ -1,3 +1,3 @@
-const greetings = "Hello World";
-
-console.log(greetings)
+function addText() {
+  console.log("hello")
+}
